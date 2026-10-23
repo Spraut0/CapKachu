@@ -1,0 +1,26 @@
+# PyInstaller build artifacts
+build/
+dist/
+*.spec.bak
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local agent state
+.omc/
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Dev preview
+icon_preview.png
